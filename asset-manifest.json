@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.956fad23.chunk.css",
-    "main.js": "/home/static/js/main.535cc191.chunk.js",
-    "main.js.map": "/home/static/js/main.535cc191.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.19e99e5d.chunk.js": "/home/static/js/2.19e99e5d.chunk.js",
-    "static/js/2.19e99e5d.chunk.js.map": "/home/static/js/2.19e99e5d.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.6b56a2c659f099d47164777ca8085313.js": "/home/precache-manifest.6b56a2c659f099d47164777ca8085313.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/home/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/home/static/media/resume.3e47421d.pdf",
-    "static/media/soumallya.png": "/home/static/media/soumallya.0b37d005.png"
+    "main.css": "/profile/static/css/main.956fad23.chunk.css",
+    "main.js": "/profile/static/js/main.1600551a.chunk.js",
+    "main.js.map": "/profile/static/js/main.1600551a.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.e019e21c.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.e019e21c.js.map",
+    "static/js/2.19e99e5d.chunk.js": "/profile/static/js/2.19e99e5d.chunk.js",
+    "static/js/2.19e99e5d.chunk.js.map": "/profile/static/js/2.19e99e5d.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "precache-manifest.60ada783710b07c5a6c84c8d68ca58bb.js": "/profile/precache-manifest.60ada783710b07c5a6c84c8d68ca58bb.js",
+    "service-worker.js": "/profile/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/profile/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/profile/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/profile/static/media/resume.3e47421d.pdf",
+    "static/media/soumallya.png": "/profile/static/media/soumallya.0b37d005.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c590061.js",
+    "static/js/runtime-main.e019e21c.js",
     "static/js/2.19e99e5d.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.535cc191.chunk.js"
+    "static/js/main.1600551a.chunk.js"
   ]
 }
