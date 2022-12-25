@@ -8,7 +8,7 @@
     <a href="https://mallo3.github.io/home">mallo3.github.io/home</a>
     <br />
     <br />
-    <a href="https://mallo3.github.io">About Me</a>
+    <a href="https://mallo3.github.io/home">About Me</a>
   </p>
 </p>
 
@@ -20,7 +20,6 @@
 - [Structure ⚓](#structure-)
 - [Sharing 💗](#sharing-)
 - [Contributing 🙌](#contributing-)
-- [Issues](#issues)
 - [Showcase 🚀](#showcase-)
 ## Technology Stack 🛠️
 
@@ -30,7 +29,6 @@ Dependencies defined in package.json:
 | [Bootstrap](https://getbootstrap.com/)
 | [Typist](https://github.com/jstejada/react-typist)
 | [GitHub API](https://developer.github.com/v3/repos/)
-| [Instagram API](https://www.instagram.com/developer/embedding/)
 
 ## Structure ⚓
 
