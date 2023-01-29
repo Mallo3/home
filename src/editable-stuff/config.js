@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/soumallya.png"),
+  imageLink: require("../editable-stuff/soumallya.jpeg"),
   imageSize: 375,
   message:
     "My name is Soumallya Hazra. I am a Software Developer currently working in LTIMindtree. I graduated on 2021 from Academy of Technology with a degree in Information Technology. I'm most passionate about technology, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
