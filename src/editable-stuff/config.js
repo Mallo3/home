@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Soumallya Hazra. I am a Software Developer currently working in LTIMindtree. I graduated on 2021 from Academy of Technology with a degree in Information Technology. I'm most passionate about technology, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://drive.google.com/file/d/17EEHYMjeLmjfTE3_ds7n09Mj-zTztYr2/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1_3Qfi_1SJ_A4KwY1VH28gNCoEqz-bNR3/view?usp=share_link",
 };
 
 // PROJECTS SECTION
